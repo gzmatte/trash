@@ -1,4 +1,5 @@
 **KernelOS is an custom Windows; focused in performance and compatibility.**
+
 *Kernel has constant updates, support, knowledge, and its a nice guy.*
 
 ![kos](https://github.com/gzmatte/trash/blob/main/Picsart_23-12-13_02-32-20-239.jpg)
