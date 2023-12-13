@@ -2,7 +2,7 @@
 
 *Kernel is a guy who has constant updates, support, knowledge, and its an incredible person.*
 
-![kos](https://github.com/gzmatte/trash/blob/main/Picsart_23-12-13_02-32-20-239.jpg)
+![kos](https://github.com/gzmatte/trash/blob/main/IMG-20231213-WA0003.jpg)
 
 You probably wont have any BSOD even if you tweak it do the death.
 
