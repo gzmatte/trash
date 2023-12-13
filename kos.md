@@ -12,4 +12,4 @@
 
 **I recommend visit my post-install batch, which if u have a brain, u can have a lot of extra-performance in any Windows.**
 
-[<img src="https://github.com/gzmatte/trash/blob/main/0ATR.png" width="480" height="278">](https://github.com/gzmatte/ATR)
+[<img src="https://github.com/gzmatte/trash/blob/main/0ATR.png" width="480" height="480">](https://github.com/gzmatte/ATR)
