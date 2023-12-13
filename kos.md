@@ -1,4 +1,4 @@
-**KernelOS _22h2 AiO_ is a Windows Custom, focused in performance and compatibility.**
+**KernelOS 22h2 AiO is a Windows Custom, focused in performance and compatibility.**
 
 **You wont have any BSOD even if you tweak it do the death.**
 
