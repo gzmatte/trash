@@ -10,6 +10,6 @@
 
 ----
 
-**I recommend to use my Post-Install batch, which if u have a brain, u can handle it perfectly and have a lot of extra-performance in any Windows.**
+**I recommend visit my post-install batch, which if u have a brain, u can have a lot of extra-performance in any Windows.**
 
-**[Download here](https://github.com/gzmatte/atr)**
+[<img src="https://github.com/gzmatte/trash/blob/main/0ATR.png">](https://github.com/gzmatte/ATR)
