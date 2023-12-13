@@ -6,7 +6,7 @@
 
 **[Download KernelOS 22h2 AiO](https://discord.gg/kernelos)**
 
-> You probably wont have any BSOD even if you tweak it do the death.
+> You probably wont have any BSOD even if you tweak it to the death.
 
 ----
 
