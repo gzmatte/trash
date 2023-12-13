@@ -2,6 +2,7 @@
 
 *Kernel is a guy who has constant updates, support, knowledge, and its an incredible person.*
 
+- FIX IMAGE QUALITY
 ![kos](https://github.com/gzmatte/trash/blob/main/IMG-20231213-WA0003.jpg)
 
 You probably wont have any BSOD even if you tweak it do the death.
