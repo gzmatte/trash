@@ -4,9 +4,8 @@
 
 <img src="https://github.com/gzmatte/trash/assets/117684932/fc066ab3-caa8-496b-9b5c-531efe065082" width="480" height="173">
 
-**[Download KernelOS 22h2 AiO](https://discord.gg/kernelos)**
-
-> You probably wont have any BSOD even if you tweak it to the death.
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://discord.gg/kernelos)
+</br> 
 
 ----
 
