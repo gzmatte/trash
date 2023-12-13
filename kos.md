@@ -1,6 +1,6 @@
 ## KernelOS is a custom Windows; focused in performance and compatibility.
 
-`Kernel is an amazing guy who has constant updates on the iso, support, and shares his knowledge.`
+### Kernel is an amazing guy who has constant updates on the iso, support, and shares his knowledge.
 
 ---
 
