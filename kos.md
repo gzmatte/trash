@@ -1,8 +1,10 @@
 ## KernelOS is an custom Windows; focused in performance and compatibility.
 
-*Kernel is a guy who has constant updates, support, knowledge, and its an incredible person.*
+*Kernel is an amazing guy who has constant updates, support, and shares his knowledge.*
 
-![kos](https://github.com/gzmatte/trash/blob/main/File_20231213-063633.jpg | width=100)
+ <img src="https://github.com/gzmatte/trash/blob/main/File_20231213-063633.jpg" width="100" height="100">
+ 
+![kos]( | width=100)
 
 You probably wont have any BSOD even if you tweak it do the death.
 
