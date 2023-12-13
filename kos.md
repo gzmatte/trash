@@ -12,5 +12,6 @@ You probably wont have any BSOD even if you tweak it do the death.
 
 ----
 
-I recommend to use my Post-Install batch, which if u have a brain, u can handle it perfectly and have a lot of extra-performance.
+I recommend to use my Post-Install batch, which if u have a brain, u can handle it perfectly and have a lot of extra-performance in any Windows.
+
 **[Download here](https://github.com/gzmatte/atr)**
