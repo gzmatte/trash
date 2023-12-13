@@ -9,8 +9,6 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://discord.gg/kernelos)
 </br> 
 
-----
-
 **I recommend visit my post-install batch, which if u have a brain, u can gain a lot of extra-performance in any Windows.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/0ATR.png" width="480" height="113">](https://github.com/gzmatte/ATR)
