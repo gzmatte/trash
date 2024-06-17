@@ -12,6 +12,6 @@
 
 ⮕ [SteamUnlocked](https://steamunlocked.net/) Toda la tienda de Steam está aca (Eso no significa que tenga online).
 
-⮕ [OnlineFix](https://online-fix.me/) Pagina Rusa que le mete online a cualquier juego. (Tenes que crearte una cuenta.)
+⮕ [OnlineFix](https://online-fix.me/) Rusos que le meten online a cualquier juego (Tenes que crear una cuenta).
 
 
