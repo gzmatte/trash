@@ -10,7 +10,7 @@
 
 ----
 
-⮕ [SteamUnlocked](https://steamunlocked.net/) Toda la tienda de Steam está aca. (Eso no significa que tenga online)
+⮕ [SteamUnlocked](https://steamunlocked.net/) Toda la tienda de Steam está aca. (Eso no significa que tenga online crackeado)
 
 ⮕ [OnlineFix](https://online-fix.me/) Pagina Rusa que le mete online a cualquier juego. (Tenes que loguearte para acceder al link.)
 
