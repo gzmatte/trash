@@ -1,4 +1,4 @@
-# Paginas de Torrents para juegos.
+# **Paginas de Torrents para juegos.**
 
 1) [PiviGames](https://pivigames.blog/) La mas segura de que nada va a fallar (Online,Instaladores,Cracks).
 
