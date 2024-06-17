@@ -4,7 +4,7 @@
 
 ⮕ [AquiyAhora](https://www.aquiyahorajuegos.net) La segunda mejor, a veces los juegos pesan menos acá.
 
-⮕ [ElAmigos](https://elamigos.site/) Las de arriba distribuyen el contenido de esta pagina comprimidos.
+⮕ [ElAmigos](https://elamigos.site/) Las de arriba distribuyen el contenido de esta pagina pero comprimidos.
 
 ⮕ [GamesTorrent](https://www.gamestorrents.fm/juegos-pc/) Mucho catalogo pero la web algo anticuada.
 
