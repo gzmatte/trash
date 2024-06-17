@@ -9,3 +9,5 @@
 ⮕ [SteamUnlocked](https://steamunlocked.net/) Si está en Steam, está acá ya extraido.
 
 ⮕ [OnlineFix](https://online-fix.me/) Pagina Rusa que le mete online a cualquier juego. (Tenes que loguearte para acceder al link.)
+
+⮕ [ElAmigos](https://elamigos.site/) No está mal, solo que a veces pesan mucho.
