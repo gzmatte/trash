@@ -1,13 +1,17 @@
 # Paginas de Torrents
 
-⮕ [PiviGames](https://pivigames.blog/) La mas segura de que nada va a fallar (Online,Instaladores,Cracks).
+⮕ [PiviGames](https://pivigames.blog/) La mejor y mas segura de que nada va a fallar.
 
 ⮕ [AquiyAhora](https://www.aquiyahorajuegos.net) La segunda mejor, a veces los juegos pesan menos acá.
 
-⮕ [GamesTorrent](https://www.gamestorrents.fm/juegos-pc/) Mucho catalogo, las dos de arriba son mejores.
+⮕ [ElAmigos](https://elamigos.site/) La tercera mejor, solo que a veces pesan demasiado.
 
-⮕ [SteamUnlocked](https://steamunlocked.net/) Si está en Steam, está acá ya extraido.
+⮕ [GamesTorrent](https://www.gamestorrents.fm/juegos-pc/) Mucho catalogo, pero muy anticuado.
+
+----
+
+⮕ [SteamUnlocked](https://steamunlocked.net/) Si está en Steam, está acá ya extraido (Inclusive programas).
 
 ⮕ [OnlineFix](https://online-fix.me/) Pagina Rusa que le mete online a cualquier juego. (Tenes que loguearte para acceder al link.)
 
-⮕ [ElAmigos](https://elamigos.site/) No está mal, solo que a veces pesan mucho.
+
