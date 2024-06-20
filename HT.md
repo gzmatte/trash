@@ -4,7 +4,7 @@ ON = MORE FRAMES, POOR LATENCY. SAFE TO DISABLE IN 8+ CORE SYSTEM, TEST ON 6 COR
 > PERSONAL EXPERIENCE; IN MY INTEL & RYZEN OF 6 CORES I HAVE IT OFF.
 
 OFF = LOWEST LATENCY, FPS CAN BE BETTER OR LOWER DOESNT MATTER; MOUSE WILL FEEL AMAZING.
-> CAREFUL WITH HIGH POLLING RATES IN 6 CORES CPU's (they use a lot of cpu without HT).
+> CAREFUL WITH 4-8k POLLING RATES IN 6 CORES CPU's (they use a lot of cpu without HT).
 
 ![Screenshot 2024-06-20 at 14-05-45 Calypto's Latency Guide - Documentos de Google](https://github.com/gzmatte/trash/assets/117684932/f8a0c69a-9e22-4978-bde0-bcf52eba2d68)
 
