@@ -19,6 +19,7 @@ ON
 ![Screenshot 2024-06-20 at 14-18-22 Disabling SMT_Hyper-Threading for Better Latency XBitLabs](https://github.com/gzmatte/trash/assets/117684932/284b5d74-3643-4847-b3fb-f78a5f1f3383)
 
 OFF
-![Screenshot 2024-06-20 at 14-18-51 Disabling SMT_Hyper-Threading for Better Latency XBitLabs](https://github.com/gzmatte/trash/assets/117684932/2b2ca38e-1e40-4209-83d6-cd4abcecc9b8)
+![Screenshot 2024-06-20 at 14-20-35 Disabling SMT_Hyper-Threading for Better Latency XBitLabs](https://github.com/gzmatte/trash/assets/117684932/076e0f02-2b75-49fc-a560-98fcc64685db)
+
 
 SOURCE; [Calypto Latency Guide](calypto.us), [XBITLABS](https://www.xbitlabs.com/disabling-smt-hyper-threading-for-better-latency/)
