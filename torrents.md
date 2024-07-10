@@ -12,8 +12,7 @@
 
 ⮕ [GogUnlocked](https://gogunlocked.com/) Toda la tienda de GOG está aca (Eso no significa que incluyan online).
 
-⮕ [OnlineFix](https://online-fix.me/) Rusos que le meten online a cualquier juego. Podes descargar el juego con online o solo el crack para online.
-(Si no encontras un juego con online pirata, 100% está acá), Tenés que crear una cuenta para descargar archivos.
+⮕ [OnlineFix](https://online-fix.me/) Rusos que le meten online a cualquier juego. (Si no encontras un juego con online pirata, 100% está acá), Tenés que crear una cuenta para descargar.
 
 
 # Descargadores
