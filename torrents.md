@@ -2,7 +2,7 @@
 
 ⮕ [PiviGames](https://pivigames.blog/) La mejor y mas completa.
 
-⮕ [AquiyAhora](https://www.aquiyahorajuegos.net) La segunda mejor, a veces los juegos pesan menos acá.
+⮕ [AquiyAhora](https://www.aquiyahorajuegos.net) La segunda mejor, a veces los juegos pesan menos acá. (No te deja navegar con AdBlock)
 
 ⮕ [FitGirl Repacks](https://fitgirl-repacks.site) Las de arriba distribuyen el contenido de acá pero incluyen online.
 
