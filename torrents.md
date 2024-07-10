@@ -18,5 +18,7 @@
 
 
 # Descargadores de Torrent
-Si no tenés con que abrir archivos Torrents o Enlaces Magnet, descarga qBitTorrent 
+Si no tenés con que abrir archivos Torrents o Enlaces Magnet, descarga [qBitTorrent](https://www.qbittorrent.org/download)
+
+Si no tenés con que acelerar descargas de Mediafire u otras webs, descarga [IDM Crackeado](Idm).
 
