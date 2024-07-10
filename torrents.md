@@ -8,8 +8,6 @@
 
 ⮕ [ElAmigos](https://elamigos.site/) Mismo contenido que las de arriba pero se descarga por partes.
 
-----
-
 ⮕ [SteamUnlocked](https://steamunlocked.net/) Toda la tienda de Steam está aca (Eso no significa que incluyan online).
 
 ⮕ [GogUnlocked](https://gogunlocked.com/) Toda la tienda de GOG está aca (Eso no significa que incluyan online).
