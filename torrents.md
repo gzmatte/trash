@@ -10,6 +10,8 @@
 
 ⮕ [SteamUnlocked](https://steamunlocked.net/) Toda la tienda de Steam está aca (Eso no significa que incluyan online).
 
+⮕ [SteamRIP](https://steamrip.com/) Toda la tienda de Steam está aca también. (Eso no significa que incluyan online).
+
 ⮕ [GogUnlocked](https://gogunlocked.com/) Toda la tienda de GOG está aca (Eso no significa que incluyan online).
 
 ⮕ [OnlineFix](https://online-fix.me/) Rusos que le meten online a cualquier juego. Tenés que crear una cuenta para descargar.
