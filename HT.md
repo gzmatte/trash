@@ -4,7 +4,7 @@ This feature allows the operating system to see a physical core as two virtual c
 
 ---
 
-ON = MORE FRAMES IN GAMES, POOR LATENCY. RECOMMENDED TO DISABLE IN 8+ CORE SYSTEM, TEST ON 6 CORES.
+ON = MORE FRAMES IN GAMES, POOR LATENCY. 
 
 OFF = LOWEST LATENCY, FPS MAY VARY; MOUSE WILL FEEL AMAZING.
 > CAREFUL WITH 8k POLLING RATES (they use a lot of cpu without HT/SMT).
