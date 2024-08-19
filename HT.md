@@ -26,6 +26,7 @@ In 6-cores; test it or depending on your game toggle it.
 
 ---
 
+LATENCY
 ![Screenshot 2024-06-20 at 14-04-18 (3) Calypto on X Latency of Hyper-threading on vs  off https __t co_x6sFmslVrb _ X](https://github.com/gzmatte/trash/assets/117684932/d5f34e37-01d9-491d-824d-762f962f437f)
 
 ON
@@ -39,6 +40,9 @@ ON
 
 OFF
 ![Screenshot 2024-06-20 at 14-20-35 Disabling SMT_Hyper-Threading for Better Latency XBitLabs](https://github.com/gzmatte/trash/assets/117684932/076e0f02-2b75-49fc-a560-98fcc64685db)
+
+
+VALORANT 6cores
 
 
 SOURCE; [Calypto Latency Guide](calypto.us), [XBITLABS](https://www.xbitlabs.com/disabling-smt-hyper-threading-for-better-latency/)
