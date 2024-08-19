@@ -7,10 +7,24 @@ So now that you know; HyperThreading adds latency, but in some cases, more threa
 ---
 
 ON = MORE FRAMES IN GAMES, POOR LATENCY. RECOMMENDED TO DISABLE IN 8+ CORE SYSTEM, TEST ON 6 CORES.
-> PERSONAL EXPERIENCE; IN MY INTEL & RYZEN OF 6 CORES I HAVE IT OFF.
 
 OFF = LOWEST LATENCY, FPS MAY VARY; MOUSE WILL FEEL AMAZING.
 > CAREFUL WITH 8k POLLING RATES (they use a lot of cpu without HT/SMT).
+
+---
+
+6 CORES CPUs
+
+In my personal experience, i tested two 6-cores CPU (i5-12400f & R5 5600) and now i can't game with HyperThreading enabled, mouse feels terrible in any polling rate.
+
+In competitive shooters, where every ms matter, probably you prefer to disable it.
+In Cpu games like Valorant, CS2, AimTrainers, Overwatch, Fortnite; i got more/same frames and incredible latency with HT disabled.
+
+In more demandant games like; COD Warzone 2023, Battlefield 2042, SinglePlayer or multi-tasking with that games open, i prefer to enable HT because i got more frames (120-144avg vs 165avg).
+
+So yeah, unless you have a 6-core CPU, disable it by default.
+
+---
 
 ![Screenshot 2024-06-20 at 14-04-18 (3) Calypto on X Latency of Hyper-threading on vs  off https __t co_x6sFmslVrb _ X](https://github.com/gzmatte/trash/assets/117684932/d5f34e37-01d9-491d-824d-762f962f437f)
 
