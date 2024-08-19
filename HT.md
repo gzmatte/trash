@@ -1,8 +1,6 @@
 # HYPERTHREADING / SMT
 
-![Screenshot 2024-06-20 at 14-05-45 Calypto's Latency Guide - Documentos de Google](https://github.com/gzmatte/trash/assets/117684932/f8a0c69a-9e22-4978-bde0-bcf52eba2d68)
-
-So now that you know; HyperThreading adds latency, but in some cases, more threads can make games run smoother or gain fps; but always with a latency-penalty.
+This feature allows the operating system to see a physical core as two virtual cores. Although good for highly-threaded loads such as rendering or compiling, this feature massively increases the system’s latency. This is because cores only have one execution unit, which is exacerbated by the operating system attempting to spread the load across both virtual processors of the same core, which creates a stall while the core’s execution unit is busy with the second logical processor.
 
 ---
 
