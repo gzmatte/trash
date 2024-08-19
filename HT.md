@@ -1,4 +1,4 @@
-# HYPERTHREADING / SMT - ON VS OFF
+# HYPERTHREADING / SMT
 
 ![Screenshot 2024-06-20 at 14-05-45 Calypto's Latency Guide - Documentos de Google](https://github.com/gzmatte/trash/assets/117684932/f8a0c69a-9e22-4978-bde0-bcf52eba2d68)
 
