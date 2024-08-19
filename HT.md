@@ -16,11 +16,13 @@ OFF = LOWEST LATENCY, FPS MAY VARY; MOUSE WILL FEEL AMAZING.
 In my personal experience, i tested two 6-cores CPU (i5-12400f & R5 5600) and now i can't game with HyperThreading enabled, mouse feels terrible in any polling rate.
 
 In competitive shooters, where every ms matter, probably you prefer to disable it.
-In Cpu games like Valorant, CS2, AimTrainers, Overwatch, Fortnite; i got more/same frames and incredible latency with HT disabled.
 
-In more demandant games like; COD Warzone 2023, Battlefield 2042, SinglePlayer or multi-tasking with that games open, i prefer to enable HT because i got more frames (120-144avg vs 165avg).
+In CPU games like Valorant/CS2/Overwatch/Fortnite; i got more frames and lower latency with HT disabled.
+
+In heavy games like Warzone/Battlefield2042/SinglePlayers or multi-tasking lot of things while gaming, i prefer to enable HT because i got more frames (120-144avg vs 165avg).
 
 So yeah, unless you have a 6-core CPU, disable it by default.
+In 6-cores; test it or depending on your game toggle it.
 
 ---
 
