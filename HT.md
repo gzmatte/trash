@@ -1,11 +1,16 @@
 # HYPERTHREADING / SMT - ON VS OFF
-ON = MORE FRAMES, POOR LATENCY. SAFE TO DISABLE IN 8+ CORE SYSTEM, TEST ON 6 CORES.
+
+![Screenshot 2024-06-20 at 14-05-45 Calypto's Latency Guide - Documentos de Google](https://github.com/gzmatte/trash/assets/117684932/f8a0c69a-9e22-4978-bde0-bcf52eba2d68)
+
+So now that you know; HyperThreading adds latency, but in some cases, more threads can make games run smoother or gain fps; but always with a latency-penalty.
+
+---
+
+ON = MORE FRAMES IN GAMES, POOR LATENCY. RECOMMENDED TO DISABLE IN 8+ CORE SYSTEM, TEST ON 6 CORES.
 > PERSONAL EXPERIENCE; IN MY INTEL & RYZEN OF 6 CORES I HAVE IT OFF.
 
 OFF = LOWEST LATENCY, FPS MAY VARY; MOUSE WILL FEEL AMAZING.
-> CAREFUL WITH 4-8k POLLING RATES IN 6 CORES CPU's (they use a lot of cpu without HT/SMT).
-
-![Screenshot 2024-06-20 at 14-05-45 Calypto's Latency Guide - Documentos de Google](https://github.com/gzmatte/trash/assets/117684932/f8a0c69a-9e22-4978-bde0-bcf52eba2d68)
+> CAREFUL WITH 8k POLLING RATES (they use a lot of cpu without HT/SMT).
 
 ![Screenshot 2024-06-20 at 14-04-18 (3) Calypto on X Latency of Hyper-threading on vs  off https __t co_x6sFmslVrb _ X](https://github.com/gzmatte/trash/assets/117684932/d5f34e37-01d9-491d-824d-762f962f437f)
 
