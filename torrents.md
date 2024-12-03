@@ -4,7 +4,7 @@
 
 ⮕ [AquiyAhora](https://www.aquiyahorajuegos.net) La segunda mejor, a veces los juegos pesan menos acá.
 
-⮕ [FitGirl Repacks](https://fitgirl-repacks.site) Las de arriba distribuyen el contenido de acá pero esta no suele traer online.
+⮕ [FitGirl Repacks](https://fitgirl-repacks.site) Las de arriba distribuyen el contenido de acá pero esta no suele traer online. (La mejor en tema de compresión)
 
 ⮕ [ElAmigos](https://elamigos.site/) Mismo contenido que las de arriba pero se descarga por partes y tampoco suele incluir online.
 
