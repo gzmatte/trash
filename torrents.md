@@ -20,5 +20,5 @@
 # Descargadores
 Si no tenés con que abrir archivos Torrents o Enlaces Magnet, descarga [qBitTorrent](https://www.qbittorrent.org/download) de codigo abierto y mejor a uTorrent.
 
-Si no tenés con que acelerar descargas de Mediafire u otras webs, descarga [Internet Download Manager](https://drive.google.com/file/d/1xGnCaJfH9y_j8BwZyiGZTyJdmtUM-kVY/view?usp=sharing) crackeado.
+Si no tenés con que acelerar descargas de Mediafire u otras webs, descarga [Internet Download Manager](https://www.mediafire.com/file/qcgmedi8i209nmy/IDM.6.42.Build.23.zip/file) crackeado.
 
