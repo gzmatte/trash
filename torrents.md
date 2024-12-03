@@ -22,3 +22,4 @@ Si no tenés con que abrir archivos Torrents o Enlaces Magnet, descarga [qBitTor
 
 Si no tenés con que acelerar descargas de Mediafire u otras webs, descarga [Internet Download Manager](https://www.mediafire.com/file/qcgmedi8i209nmy/IDM.6.42.Build.23.zip/file) crackeado.
 
+Si no tenés con que bloquear anuncios, descarga [uBlock Origin](https://ublockorigin.com/es)
