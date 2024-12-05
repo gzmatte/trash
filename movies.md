@@ -1,23 +1,26 @@
 # Paginas de Peliculas y Series.
 
-⮕ [Freek](https://freek.to) [INGLES] La mejor en calidad y contenido.
+INGLES
+⮕ [Freek](https://freek.to) La mejor en calidad y contenido.
 
-⮕ [HDFull](https://dominioshdfull.com/) [LATINO] Requiere crear una cuenta pero los servidores son de primera y con buena calidad.
+⮕ [Cineby](https://www.cineby.ru/) Con varias opciones de Audio, Mirror de Netflix.
 
-⮕ [RePelisHD](https://repelishd.cam/) [LATINO].
+LATINO
 
-⮕ [Cuevana](https://ww1.cuevana.si/) [LATINO] La cuevana 'original'.
+⮕ [HDFull](https://dominioshdfull.com/) Requiere crear una cuenta pero los servidores son de primera y con buena calidad.
 
-⮕ [Cuevana3](https://cuevana3.solar) [LATINO] La cuevana3 principal.
+⮕ [RePelisHD](https://repelishd.cam/)
 
-⮕ [Cuevana3.ch](https://cuevana3.ch/) [LATINO] Mirror de Cuevana.
+⮕ [Cuevana](https://ww1.cuevana.si/) La cuevana 'original'.
 
-⮕ [Cineby](https://www.cineby.ru/) [INGLES/LATINO] Con varias opciones de Audio, Mirror de Netflix.
+⮕ [Cuevana3](https://cuevana3.solar) La cuevana3 principal.
 
-⮕ [Cuevana3.ch](https://ww1.cuevana.si/) [LATINO]
+⮕ [Cuevana3.ch](https://cuevana3.ch/) Mirror de Cuevana.
 
-# Apps
+# Extras
 
-⮕ [Stremio](https://www.stremio.com/) Todo el contenido, 4K, Dolby, HDR. [Instalá este addon de Torrent](https://stremio-addons.netlify.app/torrentio).
+⮕ [Stremio](https://www.stremio.com/) Todo el contenido y en todos los idiomas. 4K, Dolby, HDR. [Instalá este addon de Torrent](https://stremio-addons.netlify.app/torrentio).
 
-⮕ [MagisTV](https://www.magistv-pc.com/) [ANDROID/TV] Si bien Magis no tiene la mejor calidad, nunca te va a faltar nada.
+⮕ [MagisTV](https://www.magistv-pc.com/) Android/TV; Magis no tiene la mejor calidad pero nunca te va a faltar nada y está todo en Latino.
+
+⮕ [FMHY](https://www.fmhy.net) Free Media Heck Yeah, Acá podes encontrar todas las paginas funcionando de todo. En la seccion "Streaming" y en latino en "Non-English".
