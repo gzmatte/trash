@@ -1,4 +1,4 @@
-# Paginas de Peliculas y Series. (1080p)
+# Paginas de Peliculas y Series - 1080p
 
 ### INGLES
 
