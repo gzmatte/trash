@@ -1,11 +1,12 @@
 # Paginas de Peliculas y Series.
 
-INGLES
+### INGLES
+
 ⮕ [Freek](https://freek.to) La mejor en calidad y contenido.
 
 ⮕ [Cineby](https://www.cineby.ru/) Con varias opciones de Audio, Mirror de Netflix.
 
-LATINO
+### LATINO
 
 ⮕ [HDFull](https://dominioshdfull.com/) Requiere crear una cuenta pero los servidores son de primera y con buena calidad.
 
@@ -17,7 +18,7 @@ LATINO
 
 ⮕ [Cuevana3.ch](https://cuevana3.ch/) Mirror de Cuevana.
 
-# Extras
+### Extras
 
 ⮕ [Stremio](https://www.stremio.com/) Todo el contenido y en todos los idiomas. 4K, Dolby, HDR. [Instalá este addon de Torrent](https://stremio-addons.netlify.app/torrentio).
 
