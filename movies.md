@@ -1,4 +1,4 @@
-# Paginas de Peliculas y Series.
+# Paginas de Peliculas y Series. (1080p)
 
 ### INGLES
 
@@ -10,11 +10,12 @@
 
 ⮕ [HDFull](https://dominioshdfull.com/) Requiere crear una cuenta pero los servidores son de primera y con buena calidad.
 
-⮕ [RePelisHD](https://repelishd.cam/)
+⮕ [Cuevana3](https://cuevana3.solar) La cuevana3 principal.
+
+⮕ [RePelisHD](https://repelishd.cam/) El mejor RePelis.
 
 ⮕ [Cuevana](https://ww1.cuevana.si/) La cuevana 'original'.
 
-⮕ [Cuevana3](https://cuevana3.solar) La cuevana3 principal.
 
 ⮕ [Cuevana3.ch](https://cuevana3.ch/) Mirror de Cuevana.
 
