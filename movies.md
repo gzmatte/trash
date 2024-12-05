@@ -25,4 +25,4 @@
 
 ⮕ [MagisTV](https://www.magistv-pc.com/) No tendrá la mejor calidad pero nunca te va a faltar nada y está todo en Latino.
 
-⮕ [FMHY](https://www.fmhy.net) Free Media Heck Yeah, Acá podes encontrar todas las paginas funcionando de todo. En la seccion "Streaming" y en latino en "Non-English".
+⮕ [Free Media Heck Yeah](https://www.fmhy.net) , Acá podes encontrar todas las paginas funcionando de todo. En la seccion "Streaming" y en latino "Non-English".
