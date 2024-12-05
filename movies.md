@@ -23,6 +23,6 @@
 
 ⮕ [Stremio](https://www.stremio.com/) Todo el contenido y en todos los idiomas. 4K, Dolby, HDR. [Instalá este addon de Torrent](https://stremio-addons.netlify.app/torrentio).
 
-⮕ [MagisTV](https://www.magistv-pc.com/) Apk. No tendrá la mejor calidad pero nunca te va a faltar nada y está todo en Latino.
+⮕ [MagisTV](https://www.magistv-pc.com/) No tendrá la mejor calidad pero nunca te va a faltar nada y está todo en Latino.
 
 ⮕ [FMHY](https://www.fmhy.net) Free Media Heck Yeah, Acá podes encontrar todas las paginas funcionando de todo. En la seccion "Streaming" y en latino en "Non-English".
